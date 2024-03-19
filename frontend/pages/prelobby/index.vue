@@ -13,8 +13,8 @@
             >
                 <UserDisplay />
                 <div>
-                    <StartGame />
                     <InviteInfo />
+                    <StartGame />
                 </div>
             </div>
             <div></div>
